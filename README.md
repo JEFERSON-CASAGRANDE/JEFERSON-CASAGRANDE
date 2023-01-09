@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Jeferson Casagrande 😎
 
-- 🔭 Estou buscando uma oportunidade na área de desenvolvimento
-- 💻 Estudando Analise de Sistemas
+- 💻 Formado em Analise de Sistemas
 - 📚 Estudando Programação Web Full Stack
+- ☁️ Estudando AWS
 - 🚀 "Pra cima!"
 
 
